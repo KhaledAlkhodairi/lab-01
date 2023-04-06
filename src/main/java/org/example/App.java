@@ -18,5 +18,6 @@ public class App{
 System.out.println(p);
         }
         p1.setWeight(-1);
+
     }
 }
